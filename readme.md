@@ -5,6 +5,9 @@ This is Jiao Lobel. My research interests include machine learning and computer 
 
 Efficient boundary-aware segmentation for high-resolution images
 ----------------------------------------------------------------
+![Results of Refined UNets](results_rfn_unets.jpg)
+![Architecture of Refined UNet](refined_unet.jpg)
+
 - In this research, we focus on the efficiency and boundary-awareness for objects of interest in high-resolution images. 
 - Multiple solutions, built on approximate algorithms, GPU deployment, and multi-thread implementations for CRF inference, have been tried and give rise to significant boundary-awareness and efficiency gain.
 - This has been applied to cloud/shadow detection in high-resolution remote sensing images. 
@@ -22,6 +25,8 @@ Efficient boundary-aware segmentation for high-resolution images
 
 Movement classification and visual interpretation for golf swings
 -----------------------------------------------------------------
+![Golf Guided GradCAM](golf_guided_gradcam.jpg)
+
 - In this research, we try to illustrate the relations between movement classes and input 1D signals.
 - This is applied to the visual interpretation of golf swings.
 - Source codes are publicly available at https://github.com/jiaolobel/golf-guided-gradcam.
@@ -30,6 +35,8 @@ Movement classification and visual interpretation for golf swings
 
 Image enhancement for remote sensing images
 -------------------------------------------
+![GP2P](gp2p.jpg)
+
 - In this research, we try to enhance the visibility and clarity by removing haze from images.
 - Source codes are publicly available at
   - Guided-Pix2Pix: https://github.com/jiaolobel/guided-pix2pix;
