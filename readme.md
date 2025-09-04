@@ -39,7 +39,7 @@ Image enhancement for remote sensing images
 -------------------------------------------
 ![GP2P](gp2p.jpg)
 
-- In this research, we try to enhance the visibility and clarity by removing haze from images.
+- In this research, we try to enhance the visibility and clarity in a boundary-aware style by removing haze from images.
 - Source codes are publicly available at
   - Guided-Pix2Pix: https://github.com/jiaolobel/guided-pix2pix;
   - Guided-Pix2Pix+: https://github.com/jiaolobel/guided-pix2pixplus.
