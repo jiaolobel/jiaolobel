@@ -24,6 +24,16 @@ Efficient boundary-aware segmentation for high-resolution images
   1. Jiao L, Huo L, Hu C, Tang P, Zhang Z. Permutohedral Refined UNet: Bilateral Feature-Scalable Segmentation Network for Edge-Precise Cloud and Shadow Detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024, 17: 10468-10489.
   2. Jiao L, Huo L, Hu C, Tang P, Zhang Z. Efficient Refined UNets: Efficient segmentation networks for boundary-aware cloud and shadow detection[J]. Expert Systems with Applications, 2026, 297: 129403.
 
+MineLISA: An Instruction-Guided Segmentation Method for Underground Mining Scenes
+---------------------------------------------------------------------------------
+![MineLISA](MineLISA.jpg)
+![Results](MineLISA_results.jpg)
+
+- We present *MineLISA*, an instruction-guided segmentation framework powered by the Language Instructed Segmentation Assistant (LISA) and customized for industrial underground mining applications.
+- Given natural-language instructions and underground mining images, MineLISA can yield segmentation masks to highlight the target of reasoning interest. 
+- Source codes are publicly available at https://github.com/jeb223/MineLISA.
+- This research is currently financed by National Natural Science Foundation of China.
+
 Movement classification and visual interpretation for golf swings
 -----------------------------------------------------------------
 ![Golf Guided GradCAM](golf_guided_gradcam.jpg)
