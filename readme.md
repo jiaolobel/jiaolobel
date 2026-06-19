@@ -31,7 +31,8 @@ MineLISA: An Instruction-Guided Segmentation Method for Underground Mining Scene
 
 - We present *MineLISA*, an instruction-guided segmentation framework powered by the Language Instructed Segmentation Assistant (LISA) and customized for industrial underground mining applications.
 - Given natural-language instructions and underground mining images, MineLISA can yield segmentation masks to highlight the target of reasoning interest. 
-- Source codes are publicly available at https://github.com/jeb223/MineLISA.
+- Visual segmentation interpretation is considered and then illustrated by highlighting segmentation-discriminative regions produced by Grad-CAM.
+- Source codes are publicly available at https://github.com/jeb223/MineLISA and https://github.com/yzbcs/MineSeg.
 - This research is currently financed by National Natural Science Foundation of China.
 
 Movement classification and visual interpretation for golf swings
