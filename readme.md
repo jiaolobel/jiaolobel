@@ -58,3 +58,8 @@ Image enhancement for remote sensing images
 - It would be much appreciated if you could cite our articles, provided that our research is of any help.
   1. Jiao L, Hu C, Huo L, Tang P. Guided-Pix2Pix: End-to-End Inference and Refinement Network for Image Dehazing[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 3052-3069.
   2. Jiao L, Hu C, Huo L, Tang P. Guided-Pix2Pix+: End-to-end spatial and color refinement network for image dehazing[J]. Signal Processing: Image Communication, 2022, 107: 116758.
+
+Handout for Computer Organization and Architecture
+--------------------------------------------------
+
+- This is available at https://github.com/jiaolobel/computer-organization-and-architecture-handout, and I am keeping it updated as we go.
